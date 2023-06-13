@@ -1,0 +1,2 @@
+https://api.thecatapi.com/v1/breeds/search?q=Oriental
+Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.

@@ -1,0 +1,1 @@
+{"total":6,"items":[{"uid":"2dc4ec0c3f051ccc6958e1b948aa62ec","name":"Проверка содержимого описания пород","statistic":{"failed":0,"broken":0,"skipped":0,"passed":15,"unknown":0,"total":15}},{"uid":"19eba3941ac5e25c9f14cdc8c3e88f70","name":"breeds search","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

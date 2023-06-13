@@ -1,0 +1,33 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 13 11:33:15 MSK 2023","Tue Jun 13 11:33:15 MSK 2023","361","tests","API_test","","","","test_search_fields_check[description-Oriental]",""
+"passed","Tue Jun 13 11:33:13 MSK 2023","Tue Jun 13 11:33:13 MSK 2023","351","tests","API_test","","","","test_search[Balinese]",""
+"passed","Tue Jun 13 11:33:18 MSK 2023","Tue Jun 13 11:33:19 MSK 2023","438","tests","API_test","","","","test_search_fields_check[wikipedia_url-Chartreux]",""
+"passed","Tue Jun 13 11:33:17 MSK 2023","Tue Jun 13 11:33:17 MSK 2023","337","tests","API_test","","","","test_search_fields_check[temperament-Oriental]",""
+"passed","Tue Jun 13 11:33:12 MSK 2023","Tue Jun 13 11:33:12 MSK 2023","409","tests","API_test","","","","test_search[Aegean]",""
+"passed","Tue Jun 13 11:33:26 MSK 2023","Tue Jun 13 11:33:28 MSK 2023","1954","tests","UI_test","","","","test_xpath_selectors[chromium]","
+Заходим на страницу с веб формой
+С помощью xpath локаторов выбираем формы, чекбоксы, кнопки и отправлем данные
+Проверяем, что имя юзернейма именно то, которое мы вводили
+"
+"passed","Tue Jun 13 11:33:16 MSK 2023","Tue Jun 13 11:33:17 MSK 2023","364","tests","API_test","","","","test_search_fields_check[temperament-Chartreux]",""
+"passed","Tue Jun 13 11:33:14 MSK 2023","Tue Jun 13 11:33:14 MSK 2023","329","tests","API_test","","","","test_search_fields_check[description-Aegean]",""
+"passed","Tue Jun 13 11:33:16 MSK 2023","Tue Jun 13 11:33:16 MSK 2023","327","tests","API_test","","","","test_search_fields_check[temperament-sib]",""
+"passed","Tue Jun 13 11:33:12 MSK 2023","Tue Jun 13 11:33:13 MSK 2023","352","tests","API_test","","","","test_search[sib]",""
+"passed","Tue Jun 13 11:33:17 MSK 2023","Tue Jun 13 11:33:18 MSK 2023","366","tests","API_test","","","","test_search_fields_check[wikipedia_url-Aegean]",""
+"passed","Tue Jun 13 11:33:16 MSK 2023","Tue Jun 13 11:33:16 MSK 2023","349","tests","API_test","","","","test_search_fields_check[temperament-Balinese]",""
+"passed","Tue Jun 13 11:33:14 MSK 2023","Tue Jun 13 11:33:14 MSK 2023","356","tests","API_test","","","","test_search_fields_check[description-sib]",""
+"passed","Tue Jun 13 11:33:14 MSK 2023","Tue Jun 13 11:33:15 MSK 2023","386","tests","API_test","","","","test_search_fields_check[description-Balinese]",""
+"passed","Tue Jun 13 11:33:13 MSK 2023","Tue Jun 13 11:33:13 MSK 2023","341","tests","API_test","","","","test_search[Chartreux]",""
+"passed","Tue Jun 13 11:33:19 MSK 2023","Tue Jun 13 11:33:19 MSK 2023","344","tests","API_test","","","","test_search_fields_check[wikipedia_url-Oriental]",""
+"passed","Tue Jun 13 11:33:13 MSK 2023","Tue Jun 13 11:33:14 MSK 2023","330","tests","API_test","","","","test_search[Oriental]",""
+"broken","Tue Jun 13 11:33:29 MSK 2023","Tue Jun 13 11:33:29 MSK 2023","0","tests","db_test","","","","test_each_lc_in_inventory",""
+"passed","Tue Jun 13 11:33:29 MSK 2023","Tue Jun 13 11:33:29 MSK 2023","827","tests","UI_test","","","","test_page_object[chromium]",""
+"passed","Tue Jun 13 11:33:15 MSK 2023","Tue Jun 13 11:33:15 MSK 2023","357","tests","API_test","","","","test_search_fields_check[description-Chartreux]",""
+"passed","Tue Jun 13 11:33:18 MSK 2023","Tue Jun 13 11:33:18 MSK 2023","390","tests","API_test","","","","test_search_fields_check[wikipedia_url-sib]",""
+"passed","Tue Jun 13 11:33:18 MSK 2023","Tue Jun 13 11:33:18 MSK 2023","455","tests","API_test","","","","test_search_fields_check[wikipedia_url-Balinese]",""
+"passed","Tue Jun 13 11:33:23 MSK 2023","Tue Jun 13 11:33:26 MSK 2023","2606","tests","UI_test","","","","test_css_selectors[chromium]","
+Заходим на страницу с веб формой
+С помощью css локаторов выбираем формы ввода и отправлем данные
+Проверяем, что имя юзернейма именно то, которое мы вводили
+"
+"passed","Tue Jun 13 11:33:15 MSK 2023","Tue Jun 13 11:33:16 MSK 2023","351","tests","API_test","","","","test_search_fields_check[temperament-Aegean]",""
